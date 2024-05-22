@@ -1,3 +1,2 @@
-# PHP Native Project Starter (SB Admin 2)
-
-Project template for sharing session in himatif
+# Meow CMS
+Content management system for himatif project learning
