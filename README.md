@@ -1,6 +1,6 @@
 # Meow CMS
 
-Meow CMS is a content management system developed for the Smart Tech Class Himatif 2024. It features user management, post management, and post category management functionalities. The project is built using PHP native, MySQL, and SB Admin 2 template.
+Meow CMS is a content management system developed for the Smart Tech Class Himatif 2024. It features user management, post management, and post category management functionalities. The project is built using PHP native, MySQL, and SB Admin 2 template as a dashboard.
 
 ## Features
 
